@@ -1,6 +1,14 @@
 # sql-challenge
+
+Authored by Rachel Woodill
+
+# File Locations
+- data loaded into tables: sql-challenge > EmployeeSQL > data
+- ERD picture: sql-challenge > EmployeeSQL > EmployeeSQL_PNG.png
+- schema: sql-challenge > EmployeeSQL > schema > EmployeeSQL_postgres.sql
+- queries: sql-challenge > EmployeeSQL > schema > queries.sql
  
-Instructions
+# Instructions
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
 
 Data Modeling
